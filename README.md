@@ -1,0 +1,1 @@
+# Outline of RAG project
